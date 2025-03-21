@@ -22,3 +22,4 @@
 |0020|Valid Parentheses|[Link](https://leetcode.com/problems/valid-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0020_valid_parentheses.go)|
 |0021|Merge Two Sorted Lists|[Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0021_merge_two_sorted_lists.go)|
 |0022|Generate Parentheses|[Link](https://leetcode.com/problems/generate-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0022_generate_parentheses.go)|
+|0023|Merge K Sorted Lists|[Link](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0023_merge_k_sorted_lists.go)|
