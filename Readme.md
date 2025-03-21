@@ -21,3 +21,4 @@
 |0019|Remove Nth Node From End of List|[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0019_remove_nth_node_from_end_of_list.go)|
 |0020|Valid Parentheses|[Link](https://leetcode.com/problems/valid-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0020_valid_parentheses.go)|
 |0021|Merge Two Sorted Lists|[Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0021_merge_two_sorted_lists.go)|
+|0022|Generate Parentheses|[Link](https://leetcode.com/problems/generate-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0022_generate_parentheses.go)|
