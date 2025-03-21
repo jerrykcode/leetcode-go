@@ -14,3 +14,5 @@
 |0012|Integer to Roman|[Link](https://leetcode.com/problems/integer-to-roman/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0012_integer_to_roman.go)|
 |0013|Roman to Integer|[Link](https://leetcode.com/problems/roman-to-integer/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0013_roman_to_integer.go)|
 |0014|Longest Common Prefix|[Link](https://leetcode.com/problems/longest-common-prefix/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0014_longest_common_prefix.go)|
+|0015|3Sum|[Link](https://leetcode.com/problems/3sum/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0015_3sum.go)|
+|0016|3Sum Closest|[Link](https://leetcode.com/problems/3sum-closest/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0016_3sum_closest.go)|
