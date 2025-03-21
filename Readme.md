@@ -6,3 +6,8 @@
 |0004|Median Of Two Sorted Arrays|[Link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0004_median_of_two_sorted_arrays.go)|
 |0005|Longest palindromic substring|[Link](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0005_longest_palindromic_substring.go)|
 |0006|Zigzag Conversion|[Link](https://leetcode.com/problems/zigzag-conversion/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0006_zigzag_conversion.go)|
+|0007|Reverse integer|[Link](https://leetcode.com/problems/reverse-integer/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0007_reverse_integer.go)|
+|0008|String to int (atoi)|[Link](https://leetcode.com/problems/string-to-int-atoi/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0008_string_to_int_atoi.go)|
+|0009|Palindrome Number|[Link](https://leetcode.com/problems/palindrome-number/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0009_palindrome_number.go)|
+|0010|Regular Expression Matching|[Link](https://leetcode.com/problems/regular-expression-matching/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0010_regular_expression_matching.go)|
+|0011|Container With Most Water|[Link](https://leetcode.com/problems/container-with-most-water/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0011_container_with_most_water.go)|
