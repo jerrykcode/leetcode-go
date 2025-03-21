@@ -13,3 +13,4 @@
 |0011|Container With Most Water|[Link](https://leetcode.com/problems/container-with-most-water/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0011_container_with_most_water.go)|
 |0012|Integer to Roman|[Link](https://leetcode.com/problems/integer-to-roman/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0012_integer_to_roman.go)|
 |0013|Roman to Integer|[Link](https://leetcode.com/problems/roman-to-integer/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0013_roman_to_integer.go)|
+|0014|Longest Common Prefix|[Link](https://leetcode.com/problems/longest-common-prefix/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0014_longest_common_prefix.go)|
