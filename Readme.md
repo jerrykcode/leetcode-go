@@ -23,3 +23,4 @@
 |0021|Merge Two Sorted Lists|[Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0021_merge_two_sorted_lists.go)|
 |0022|Generate Parentheses|[Link](https://leetcode.com/problems/generate-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0022_generate_parentheses.go)|
 |0023|Merge K Sorted Lists|[Link](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0023_merge_k_sorted_lists.go)|
+|0024|Swap Nodes in Pairs|[Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0024_swap_nodes_in_pairs.go)|
