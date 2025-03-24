@@ -27,3 +27,4 @@
 |0025|Reverse Nodes in k-group|[Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0025_reverse_nodes_in_k-group.go)|
 |0026|Remove Duplicates from Sorted Array|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0026_remove_duplicates_from_sorted_array.go)|
 |0027|Remove Element|[Link](https://leetcode.com/problems/remove-element/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0027_remove_element.go)|
+|0028|Find the Index of the First Occurrence in a String|[Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0028_find_the_index_of_the_first_occurrence_in_a_string.go)|
