@@ -26,3 +26,4 @@
 |0024|Swap Nodes in Pairs|[Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0024_swap_nodes_in_pairs.go)|
 |0025|Reverse Nodes in k-group|[Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0025_reverse_nodes_in_k-group.go)|
 |0026|Remove Duplicates from Sorted Array|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0026_remove_duplicates_from_sorted_array.go)|
+|0027|Remove Element|[Link](https://leetcode.com/problems/remove-element/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0027_remove_element.go)|
