@@ -30,3 +30,4 @@
 |0028|Find the Index of the First Occurrence in a String|[Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0028_find_the_index_of_the_first_occurrence_in_a_string.go)|
 |0029|Divide Two Integers|[Link](https://leetcode.com/problems/divide-two-integers/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0029_divide_two_integers.go)|
 |0031|Next Permutation|[Link](https://leetcode.com/problems/next-permutation/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0031_next_permutation.go)|
+|[Link](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0032_longest_valid_parentheses.go)|
