@@ -32,3 +32,4 @@
 |0031|Next Permutation|[Link](https://leetcode.com/problems/next-permutation/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0031_next_permutation.go)|
 |[Link](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0032_longest_valid_parentheses.go)|
 |0033|Search in Rotated Sorted Array|[Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0033_search_in_rotated_sorted_array.go)|
+|0034|Find First and Last Position of Element in Sorted Array|[Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0034_find_first_and_last_position_of_element_in_sorted_array.go)|
