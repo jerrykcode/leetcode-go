@@ -31,3 +31,4 @@
 |0029|Divide Two Integers|[Link](https://leetcode.com/problems/divide-two-integers/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0029_divide_two_integers.go)|
 |0031|Next Permutation|[Link](https://leetcode.com/problems/next-permutation/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0031_next_permutation.go)|
 |[Link](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0032_longest_valid_parentheses.go)|
+|0033|Search in Rotated Sorted Array|[Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0033_search_in_rotated_sorted_array.go)|
