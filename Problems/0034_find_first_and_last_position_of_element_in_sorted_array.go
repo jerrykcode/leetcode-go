@@ -40,4 +40,8 @@ func searchRange(nums []int, target int) []int {
         }
     }
     return res
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6848fa7c6e33201d2f5db4e8caddfc54f0a068ae
