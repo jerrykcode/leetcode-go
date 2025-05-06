@@ -16,7 +16,7 @@ func main() {
 	var id_end bool = false
 	for i := 0; i < len(input); i++ {
 	  if !id_end {
-	    if input[i] == ' ' {
+	    if input[i] == ' ' || input[i] == '.' {
 	      id_end = true
 	      for i + 1 < len(input) && input[i + 1] == ' ' {
 	        i++
