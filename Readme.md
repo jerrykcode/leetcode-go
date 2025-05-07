@@ -37,3 +37,4 @@
 |0035|Search Insert Position|[Link](https://leetcode.com/problems/search-insert-position/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0035_search_insert_position.go)|
 |0036|Valid Sudoku|[Link](https://leetcode.com/problems/valid-sudoku/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0036_valid_sudoku.go)|
 |0037|Sudoku Solver|[Link](https://leetcode.com/problems/sudoku-solver/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0037_sudoku_solver.go)|
+|0038|Count and Say|[Link](https://leetcode.com/problems/count-and-say/description/)|[Code](https://github.com/jerrykcode/leetcode-go/blob/main/Problems/0038_count_and_say.go)|
